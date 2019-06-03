@@ -1,0 +1,70 @@
+como instalar un sevidor proxy
+consultar codigos de error de servidores familias
+
+herramienta de administraion que indique cuando un servidor se caiga,
+
+
+cliente que intente conectarse a un servidor,
+
+montar red privada->ip diferentes
+
+estudiar funcionamiento de git commit push spull
+
+como modificar el lado del cliente en javasript
+
+caja intermedia, cuando un servidor tenga 10
+
+hacer maquina virtual remota encender el servidores
+como conectar por ssh atravez del git_> github
+hacer pull al github
+
+tarea: arquitectura robustas-> arquitectura de amazon
+
+instalar dos gestores de bases de datos en cada posgres,mongo y mariadb
+alta escalavilidad ->
+
+cuantos despliegues al dia, cuantos commits, que hardware usan, arquitectura, que satack usan para distribuir contenidos, algortimos de escalabilidad,
+que software privado tiene desarrollado, que clase de servidores usan
+presentaciones de ingenieros de la compañia
+ que software y que hardware usan
+
+ contrato de internet de la universidad-> tabla si el servicio no se responde
+
+proxy reverso atravez del swicht
+
+como comunicar dos o mas servidores , reeelcion de lider
+
+redHat  opensuse
+en desarrollo  no usar cdn -> porque estan en local host los archivos
+
+teorema CAP disponibilidad, tolerancia a fallos consistencia
+
+bases de dats relacionales aseguran la consistencia de sus datos
+
+funciones de shell curl y wget
+
+tecnologias git sh
+
+posman sirve paraprobar la disponibilidad y estadpo del servidor
+
+agregar locus como servicio de pruebas unitarias
+
+request a un nuevo lider
+_____________________________
+proyecto desarrollo movil en android, javascript y generar con framework para generar apk en android
+crear repositorio en github
+readme-> descripcion de las tecnologias usadas y una orma de instalacion
+deskotp express NombreArchivo
+
+_________________
+Documento-->introduccion --> desarrollo de aplicacion --> auto
+mata de pila-->un estado del arte de esa aplicacion--> 5 o mas artculo(opcional)--> idea de lo qque se va a desarrollar
+_____________________________
+hacer diapositivas sobre algo de microservicios o distribuidos
+
+
+configurar la pagina views  app views
+configuracion de renderizado pug -->
+renderizado de lado del servidor
+
+herramienta de monitoreo no postman no ab
